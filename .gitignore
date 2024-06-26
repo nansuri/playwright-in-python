@@ -1,0 +1,6 @@
+Pipfile.lock
+allure*
+/test/test_env
+/test/allure*
+/test/screenshots
+/test/.pytest_cache
